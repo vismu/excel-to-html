@@ -1,11 +1,16 @@
 {
-  "name": "excel-to-pdf",
+  "name": "excel-to-html",
   "version": "1.0.0",
-  "description": "'tool for pryaha pes'",
+  "description": "tool for pryaha pes",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "start": "node index.js"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "convert-excel-to-json": "^1.7.0",
+    "isomorphic-fetch": "^3.0.0",
+    "mustache": "^4.0.1"
+  }
 }
