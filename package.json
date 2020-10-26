@@ -1,0 +1,11 @@
+{
+  "name": "excel-to-pdf",
+  "version": "1.0.0",
+  "description": "'tool for pryaha pes'",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC"
+}
